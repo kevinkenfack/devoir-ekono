@@ -4,7 +4,7 @@ Salut 👋,
 
 Voici le premier ensemble d’exercices pour t’aider à pratiquer HTML, CSS et JavaScript.
 
-🧪 **Les consignes du premier exercice sont dans le fichier `exercice.md`.**
+🧪 **Les consignes du premier exercice sont dans le fichier (./EXERCICES.md).**
 
 ---
 
