@@ -4,7 +4,7 @@ Salut 👋,
 
 Voici le **second** ensemble d’exercices pour t’aider à pratiquer HTML, CSS et JavaScript.
 
-🧪 **Les consignes du premier exercice sont dans le fichier [EXERCICES-2.md](./EXERCICES-2.md).**
+🧪 **Les consignes du premier exercice sont dans le fichier [EXERCICES-3.md](./EXERCICES-3.md).**
 
 ---
 
@@ -17,10 +17,10 @@ Chaque nouveau défi ou série d’exercices aura son propre fichier `.md` avec 
 
 ## 📝 Que faire maintenant ?
 
-1. Voici l’[exercice-2](./EXERCICES-2.md)
+1. Voici l’[exercice-3](./EXERCICES-3.md)
 2. Lis bien les instructions
 3. Crée les fichiers demandés
-4. Regroupe tout dans un dossier `exercices-html-css-js-stage-2`
+4. Regroupe tout dans un dossier `exercices-html-css-js-stage-3`
 5. Compresse le dossier en `.zip`
 6. Envoie-le moi par WhatsApp ou email
 
