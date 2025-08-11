@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Liste de tâches d'Ekono</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <div class="container">
+      <h1 id="main-title" class="main-title">Ma Liste de Tâches</h1>
+      
+      <section class="input-section">
+        <input type="text" id="task-input" placeholder="Nouvelle tâche...">
+        <button id="add-btn" class="btn-primary" onclick="ajouterTache()">Ajouter</button>
+      </section>
+      
+      <section>
+        <ul id="task-list"></ul>
+        <p id="counter" class="task-counter">Tâches terminées : 0</p>
+      </section>
+    </div>
+  </main>
+  
+  <script src="script.js"></script>
+</body>
+</html>
