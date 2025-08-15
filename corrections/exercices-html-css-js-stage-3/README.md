@@ -148,3 +148,5 @@ Reprends ton travail, corrige ces erreurs, et teste que ça marche vraiment !
 
 **Capture 2 - Application en action :**
 ![Tâches ajoutées, certaines barrées, compteur qui fonctionne](./captures/app-en-action.png)
+
+Tu peux regarder la démo [ici](https://correction-liste-de-taches.vercel.app/).
