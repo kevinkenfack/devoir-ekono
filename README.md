@@ -2,7 +2,7 @@
 
 Salut 👋,
 
-Voici le **second** ensemble d’exercices pour t’aider à pratiquer HTML, CSS et JavaScript.
+Voici le **prochain** ensemble d’exercices pour t’aider à pratiquer HTML, CSS et JavaScript.
 
 🧪 **Les consignes du prochain exercice sont dans le fichier [EXERCICES-4.md](./EXERCICES-4.md).**
 
