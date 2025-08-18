@@ -207,5 +207,3 @@ Tu sais programmer et ta calculatrice fonctionne, mais **tu ne suis pas les inst
 Tu continues à inventer tes propres noms de classes au lieu d'utiliser ceux demandés. En entreprise, ça ne passerait pas !
 
 **Note finale : 11/20** - Fonctionnel mais non-conforme aux spécifications
-
----
