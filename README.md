@@ -1,29 +1,29 @@
-# 📘 Bienvenue Ekono Armand !
+# 📘 Welcome Ekono Armand!
 
-Salut 👋,
+Hey there 👋,
 
-Voici le **prochain** ensemble d’exercices pour t’aider à pratiquer HTML, CSS et JavaScript.
+Here's the **next** exercise to help you practice HTML, CSS and JavaScript.
 
-🧪 **Les consignes du prochain exercice sont dans le fichier [EXERCICES-4.md](./EXERCICES-4.md).**
-
----
-
-## 📂 Organisation du travail
-
-À partir de maintenant, tous les exercices que je te donne seront placés dans ce dossier (ou dépôt).  
-Chaque nouveau défi ou série d’exercices aura son propre fichier `.md` avec les instructions dedans.
+🧪 **The instructions for the next exercise are in the file [EXERCISES-5.md](./EXERCISES-5.md).**
 
 ---
 
-## 📝 Que faire maintenant ?
+## 📂 Work Organization
 
-1. Voici l’[exercice-4](./EXERCICES-4.md)
-2. Lis bien les instructions
-3. Crée les fichiers demandés
-4. Regroupe tout dans un dossier `exercices-html-css-js-stage-3`
-5. Compresse le dossier en `.zip`
-6. Envoie-le moi par WhatsApp ou email
+From now on, all the exercises I give you will be placed in this folder (or repository).  
+Each new challenge or series of exercises will have its own `.md` file with the instructions inside.
 
-Bon courage, et n’hésite pas à poser des questions si tu bloques. 💪
+---
 
-> ⚠️ **Attention** : ne fais plus les mêmes bêtises que la dernière fois. Sois posé quand tu travailles et essaie de comprendre ce qu’on te demande de faire. L’objectif n’est pas juste de trouver une solution, mais surtout de bien comprendre l’énoncé.
+## 📝 What to do now?
+
+1. Here's the [exercise-5](./EXERCISES-5.md)
+2. Read the instructions carefully
+3. Create the requested files
+4. Group everything in a folder `exercises-html-css-js-stage-4`
+5. Compress the folder as `.zip`
+6. Send it to me via WhatsApp or email
+
+Good luck, and don't hesitate to ask questions if you get stuck. 💪
+
+> ⚠️ **Warning**: don't make the same mistakes as last time. Stay calm when you work and try to understand what you're being asked to do. The goal isn't just to find a solution, but especially to understand the requirements properly.
