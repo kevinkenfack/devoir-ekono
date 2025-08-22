@@ -178,5 +178,5 @@ L'animation fonctionne, mais l'exercice n'est pas respecté. Recommence en lisan
 ## **VOICI EXACTEMENT CE QUI ÉTAIT DEMANDÉ**
 
 <video width="auto" height="auto" controls>
-  <source src="video/video.mp4" type="video/mp4">
+  <source src="https://github.com/kevinkenfack/devoir-ekono/raw/main/corrections/exercices-html-css-js-stage-4/exercice%201/video/video.mp4" type="video/mp4">
 </video>
