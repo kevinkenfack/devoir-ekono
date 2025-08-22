@@ -175,7 +175,7 @@ function scale(num, in_min, in_max, out_min, out_max) {
 
 L'animation fonctionne, mais l'exercice n'est pas respecté. Recommence en lisant attentivement.
 
-## VOICI EXACTEMENT CE QUI ÉTAIT DEMANDÉ
+## **VOICI EXACTEMENT CE QUI ÉTAIT DEMANDÉ**
 
 <video width="auto" height="auto" controls>
   <source src="video/video.mp4" type="video/mp4">
